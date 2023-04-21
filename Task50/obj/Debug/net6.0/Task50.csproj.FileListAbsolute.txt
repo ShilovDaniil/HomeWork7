@@ -1,0 +1,15 @@
+C:\d3\gb\ZnakomstvoSYazykamiProgrammirovaniya\Seminars\HomeWork7\Task50\obj\Debug\net6.0\Task50.csproj.AssemblyReference.cache
+C:\d3\gb\ZnakomstvoSYazykamiProgrammirovaniya\Seminars\HomeWork7\Task50\obj\Debug\net6.0\Task50.GeneratedMSBuildEditorConfig.editorconfig
+C:\d3\gb\ZnakomstvoSYazykamiProgrammirovaniya\Seminars\HomeWork7\Task50\obj\Debug\net6.0\Task50.AssemblyInfoInputs.cache
+C:\d3\gb\ZnakomstvoSYazykamiProgrammirovaniya\Seminars\HomeWork7\Task50\obj\Debug\net6.0\Task50.AssemblyInfo.cs
+C:\d3\gb\ZnakomstvoSYazykamiProgrammirovaniya\Seminars\HomeWork7\Task50\obj\Debug\net6.0\Task50.csproj.CoreCompileInputs.cache
+C:\d3\gb\ZnakomstvoSYazykamiProgrammirovaniya\Seminars\HomeWork7\Task50\bin\Debug\net6.0\Task50.exe
+C:\d3\gb\ZnakomstvoSYazykamiProgrammirovaniya\Seminars\HomeWork7\Task50\bin\Debug\net6.0\Task50.deps.json
+C:\d3\gb\ZnakomstvoSYazykamiProgrammirovaniya\Seminars\HomeWork7\Task50\bin\Debug\net6.0\Task50.runtimeconfig.json
+C:\d3\gb\ZnakomstvoSYazykamiProgrammirovaniya\Seminars\HomeWork7\Task50\bin\Debug\net6.0\Task50.dll
+C:\d3\gb\ZnakomstvoSYazykamiProgrammirovaniya\Seminars\HomeWork7\Task50\bin\Debug\net6.0\Task50.pdb
+C:\d3\gb\ZnakomstvoSYazykamiProgrammirovaniya\Seminars\HomeWork7\Task50\obj\Debug\net6.0\Task50.dll
+C:\d3\gb\ZnakomstvoSYazykamiProgrammirovaniya\Seminars\HomeWork7\Task50\obj\Debug\net6.0\refint\Task50.dll
+C:\d3\gb\ZnakomstvoSYazykamiProgrammirovaniya\Seminars\HomeWork7\Task50\obj\Debug\net6.0\Task50.pdb
+C:\d3\gb\ZnakomstvoSYazykamiProgrammirovaniya\Seminars\HomeWork7\Task50\obj\Debug\net6.0\Task50.genruntimeconfig.cache
+C:\d3\gb\ZnakomstvoSYazykamiProgrammirovaniya\Seminars\HomeWork7\Task50\obj\Debug\net6.0\ref\Task50.dll
